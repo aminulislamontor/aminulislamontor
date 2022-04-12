@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/aminulislamontor/)
+[![Linkedin Badge](https://img.shields.io/badge/-aminulislamontor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aminulislamontor/)](https://www.linkedin.com/in/aminulislamontor/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminulislamontor" alt="aminulislamontor" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
